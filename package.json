@@ -1,7 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "gh-pages": "^1.2.0",
     "npm": "^6.3.0",
