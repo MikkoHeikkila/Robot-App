@@ -1,7 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
-  "homepage": "https://mikkoheikkila.github.io/Robot-App/",
+  "homepage": "https://mikkoheikkila.github.io/Robot-App",
   "private": false,
   "dependencies": {
     "gh-pages": "^1.2.0",
@@ -16,7 +16,7 @@
     "tachyons": "^4.9.0"
   },
   "scripts": {
-    "pre": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "clean-source": "rimraf README.md src webroot package.json",
     "start": "react-scripts start",
