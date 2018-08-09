@@ -1,6 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
+  "homepage": "https://mikkoheikkila.github.io/Robot-App/",
   "private": false,
   "dependencies": {
     "gh-pages": "^1.2.0",
